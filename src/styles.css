@@ -1,0 +1,57 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+
+.arrow-icon {
+  height: 2.2rem;
+  margin-left: 85%;
+  background-color: rgb(255, 165, 0);
+}
+
+.continue-shopping .arrow-icon {
+  /* width: 2.2rem; */
+  height: 2.2rem;
+  margin-left: 90%;
+}
+
+.cart-div-main {
+  margin: 50px auto;
+  padding-left: 24px;
+  padding-top: 40px;
+  width: 45%;
+  background-color: rgb(255, 165, 0);
+  height: 400px;
+}
+
+.first-div-cart {
+  width: 95%;
+  display: flex;
+  justify-content: space-between;
+  /* border: 1px solid cornsilk; */
+}
+
+.case-study {
+  width: 25%;
+  line-height: 2.4rem;
+  color: white;
+  text-align: center;
+  background-color: black;
+}
+.amazon-cart-btn {
+  margin: 10px 650px;
+  background-color: green;
+  color: whitesmoke;
+  width: 150px;
+  height: 45px;
+  border-radius: 5px;
+}
+
+.aplle-cart-btn {
+  margin: 10px 650px;
+  background-color: yellowgreen;
+  color: black;
+  width: 150px;
+  height: 45px;
+  border-radius: 5px;
+}
